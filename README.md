@@ -79,3 +79,5 @@ docker login [your_docker_hub_username]
 docker push [your_docker_hub_username]/springboot-helloworld
 ```
 
+This image is available on Docker Hub at https://hub.docker.com/r/kbaynes/springboot-helloworld.
+
