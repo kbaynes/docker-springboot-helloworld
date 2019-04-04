@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.k9b9</groupId>
 	<artifactId>hello</artifactId>
-	<version>0.0.3</version>
+	<version>0.0.4</version>
 	<name>hello</name>
 	<description>Hello World project for Spring Boot</description>
 
